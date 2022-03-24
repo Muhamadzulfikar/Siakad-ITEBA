@@ -1,0 +1,38 @@
+.cardContainer{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: center;
+}
+
+.card{
+    width: auto;
+    margin-right: 2.5rem;
+    --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    margin-top: 1.25rem;
+    margin-bottom: 2.5rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.cardImage{
+    border-radius: 1rem;
+    margin: auto;
+}
+
+.tagline{
+    margin-top: 1.25rem;
+    margin-bottom: 2.5rem;
+}
+
+.tagline li{
+    display: inline-block;
+    margin-left: 2.5rem;
+    margin-right: 2.25rem;
+}
+
+.cardTitle{
+    width: 24rem;
+}
