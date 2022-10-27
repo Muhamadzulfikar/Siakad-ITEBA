@@ -1,0 +1,40 @@
+{
+    "sidebar": [
+        {
+            "id": "dashboard",
+            "name": "Dashbord"
+        },
+        {
+            "id": "cuti",
+            "name": "Cuti Request"
+        },
+        {
+            "id": "biodata",
+            "name": "Biodata"
+        },
+        {
+            "id": "krs",
+            "name": "Kartu Rencana Studi"
+        },
+        {
+            "id": "jadwalperkuliahan",
+            "name": "Jadwal Perkuliahan"            
+        },
+        {
+            "id": "jadwalujian",
+            "name": "Jadwal Ujian"
+        },
+        {
+            "id": "khs",
+            "name": "Kartu Hasil Studi"
+        },
+        {
+            "id": "transkip",
+            "name": "Transkip Sementara"
+        },
+        {
+            "id": "aspirasi",
+            "name": "Aspirasi"
+        }
+    ]
+}

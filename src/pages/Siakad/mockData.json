@@ -1,0 +1,22 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "title": "Perjanjian Kerja Sama PT. Galaksi Investasi Harapan Bersama Institut Teknologi Batam",
+            "date": "Senin, 6 Desember 2021"
+        },
+        {
+            "id": 2,
+            "title": "Perjanjian Kerja Sama ITEBA & BTP Bagi Pengembangan Kopetensi Pegawai Imigrasi dan Dukungan Tri Dharma Perguruan Tinggi 2021",
+            "date": "Senin,6 Desember 2021"
+        },
+        {
+            "id": 3,
+            "title": "Pengumuman Sidang Senat Terbuka 2021",
+            "date": "Senin, 6 September 2021"
+        }
+    ],
+    "cuti":[
+        "semester mulai cuti", "semester aktif kembali", "alasan cuti", "status", "actions"
+    ]
+}
